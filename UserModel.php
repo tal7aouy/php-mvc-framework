@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\app;
+namespace talhaouy\phpmvc;
 
 
-use app\app\config\DbModel;
+use talhaouy\phpmvc\config\DbModel;
 
 abstract class UserModel extends DbModel
 {

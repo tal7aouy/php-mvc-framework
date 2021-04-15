@@ -2,9 +2,14 @@
     "name": "talhaouy/php-mvc-app",
     "authors": [
         {
-            "name": "tal7aouy",
+            "name": "Mhammed Talhaouy",
             "email": "talhaouycoding@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "talhaouy\\phpmvc\\": "."
+        }
+    },
     "require": {}
 }

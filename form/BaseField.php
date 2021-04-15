@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\app\form;
+namespace talhaouy\phpmvc\form;
 
 
-use app\app\Model;
+use talhaouy\phpmvc\Model;
 
 abstract class BaseField
 {

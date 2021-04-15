@@ -1,15 +1,15 @@
 <?php
 
 
-namespace app\app;
-use app\app\Application;
-use app\app\middlewares\BaseMiddleware;
+namespace talhaouy\phpmvc;
+use talhaouy\phpmvc\Application;
+use talhaouy\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {
     public string $layout = "master";
     /**
-     * @var \app\app\middlewares\BaseMiddleware[]
+     * @var \talhaouy\phpmvc\middlewares\BaseMiddleware[]
      **/
     protected array $middlewares = [];
     public string $action = '';

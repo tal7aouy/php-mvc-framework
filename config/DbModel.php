@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\app\config;
+namespace talhaouy\phpmvc\config;
 
 
-use app\app\Application;
-use app\app\Model;
+use talhaouy\phpmvc\Application;
+use talhaouy\phpmvc\Model;
 
 abstract class DbModel extends Model
 {

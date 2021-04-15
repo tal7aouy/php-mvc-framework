@@ -1,9 +1,9 @@
 <?php
-namespace app\app;
+namespace talhaouy\phpmvc;
 
 
-use app\app\exception\NotFoundException;
-use app\app\middlewares\BaseMiddleware;
+use talhaouy\phpmvc\exception\NotFoundException;
+use talhaouy\phpmvc\middlewares\BaseMiddleware;
 
 class Router
 {

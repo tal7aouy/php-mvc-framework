@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\app\form;
+namespace talhaouy\phpmvc\form;
 
 
-use app\app\exception\InputException;
-use app\app\Model;
+use talhaouy\phpmvc\exception\InputException;
+use talhaouy\phpmvc\Model;
 
 class Input extends BaseField
 {

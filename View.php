@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\app;
+namespace talhaouy\phpmvc;
 
 
 class View

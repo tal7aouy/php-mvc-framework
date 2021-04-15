@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\app\config;
+namespace talhaouy\phpmvc\config;
 
 
-use app\app\Application;
+use talhaouy\phpmvc\Application;
 use PDO;
 
 class Database

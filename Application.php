@@ -1,7 +1,7 @@
 <?php
-namespace app\app;
+namespace talhaouy\phpmvc;
 
-use app\app\config\Database;
+use talhaouy\phpmvc\config\Database;
 
 class Application
 {
