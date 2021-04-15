@@ -1,0 +1,10 @@
+{
+    "name": "talhaouy/php-mvc-app",
+    "authors": [
+        {
+            "name": "tal7aouy",
+            "email": "talhaouycoding@gmail.com"
+        }
+    ],
+    "require": {}
+}
