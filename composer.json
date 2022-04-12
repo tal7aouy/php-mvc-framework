@@ -3,8 +3,15 @@
     "authors": [
         {
             "name": "Mhammed Talhaouy",
-            "email": "talhaouycoding@gmail.com"
+            "email": "talhaouycoding@gmail.com",
+            "role": "PHP Developer"
         }
+    ],
+    "keywords": [
+        "php framework",
+        "php",
+        "framework",
+        "mvc framework"
     ],
     "autoload": {
         "psr-4": {
